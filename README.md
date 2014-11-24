@@ -11,3 +11,8 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 17th November 2014
 ------------------
 + [Version 3](https://timpotter.github.io/john-baskerville/version-3.html) - Refined page structure. Added links within the page, links to external pages and mailto links.
+
+24th November 2014
+------------------
++ [Version 3](https://timpotter.github.io/john-baskerville/version-4.html) - Added Internal CSS - followed along in class.
++ [Version 3](https://timpotter.github.io/john-baskerville/version-5.html) - Custom CSS Version
