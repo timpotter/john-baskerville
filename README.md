@@ -15,4 +15,8 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 24th November 2014
 ------------------
 + [Version 4](https://timpotter.github.io/john-baskerville/version-4.html) - Added Internal CSS - followed along in class.
-+ [Version 5](https://timpotter.github.io/john-baskerville/version-5.html) - Custom CSS Version
++ [Version 5](https://timpotter.github.io/john-baskerville/version-5.html) - Custom CSS Version.
+
+25th November 2014
+------------------
++ [Version 6](https://timpotter.github.io/john-baskerville/version-6.html) - Moved styles to an External Stylesheet. Added Baskerville font from Google Fonts.

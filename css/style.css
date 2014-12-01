@@ -1,0 +1,89 @@
+ /* John Baskerville CSS Styling */
+ 
+ body {
+            font-family: 'Libre Baskerville', serif;
+            background: #FCF4DC;
+            color: #444;
+            padding: 20px;
+        }
+        
+         h1, h2 {
+            font-weight: normal; /* As standard the browser sets all headings to bold. This takes the weight back to regular. */
+            text-align: center;
+             margin: 10px 0;
+        }
+    
+        h1 {
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            font-size: 36px;
+        }
+        
+        h2 {
+            padding-bottom: 20px;
+            font-size: 28px;
+        }
+        
+        h2.subtitle {
+            font-style: italic;
+            padding-bottom: 10px;
+            font-size: 20px;
+        }
+        
+        p {
+            line-height: 1.35em;
+        }
+        
+        p.intro {
+            font-style: italic;
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        a {
+            text-decoration: none;
+            color: red;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        a:hover {
+            color: navy;
+        }
+        
+        blockquote {
+            font-style: italic;
+            font-size: 18px;
+            color: #888;
+        }
+        
+        cite {
+            color: red;
+            font-size: 12px;
+        }
+        
+        nav {
+            border-bottom: 1px solid #e5e5e5;
+            border-top: 1px solid #e5e5e5;
+            }
+        
+        nav ul {
+            text-align: center;
+            list-style-type: none;
+        }
+        
+        nav ul li {
+            display: inline;
+            margin: 10px;
+        }
+        
+        
+        section {
+            padding-bottom: 40px;
+        }
+        
+        img {
+            display: block;
+            margin: 0 auto; /* This sets the margin top and bottom to 0px. The auto on the left and right will automatically calculate the space either side and split it evenly between the two margins. */
+        }
+        
