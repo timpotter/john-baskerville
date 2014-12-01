@@ -23,4 +23,5 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 
 1st December 2014
 ------------------
-+ [Version 7](https://timpotter.github.io/john-baskerville/version-6.html) - Added Reset and Layout styles.
++ [Version 7](https://timpotter.github.io/john-baskerville/version-7.html) - Added Reset and Layout styles.
++ Version 8 is up to you. Feel free to experiment with everything you have learned so far to produce another version of the project.
