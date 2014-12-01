@@ -20,3 +20,7 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 25th November 2014
 ------------------
 + [Version 6](https://timpotter.github.io/john-baskerville/version-6.html) - Moved styles to an External Stylesheet. Added Baskerville font from Google Fonts.
+
+1st December 2014
+------------------
++ [Version 7](https://timpotter.github.io/john-baskerville/version-6.html) - Added Reset and Layout styles.

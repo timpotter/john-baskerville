@@ -1,0 +1,120 @@
+/* John Baskerville CSS Styling */
+
+
+/* Reseting default user-agent styles */
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+body {
+    font-family: 'Libre Baskerville', Baskerville, Georgia, 'Times New Roman', serif;
+    background: #FCF4DC;
+    color: #444;
+    padding: 20px;
+}
+
+ h1, h2 {
+    font-weight: normal; /* As standard the browser sets all headings to bold. This takes the weight back to regular. */
+    text-align: center;
+    margin: 10px 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 36px;
+}
+
+h2 {
+    padding-bottom: 20px;
+    font-size: 28px;
+}
+
+h2.subtitle {
+    font-style: italic;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+p, li {
+    line-height: 1.35em;
+    margin-bottom: 10px;
+}
+
+p.intro {
+    font-style: italic;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+a:hover {
+    color: navy;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 18px;
+    color: #888;
+    margin: 30px;
+}
+
+cite {
+    color: red;
+    font-size: 12px;
+}
+
+small {
+    font-size: 10px;
+    color: #aaa;
+}
+
+ul {
+    padding: 10px;
+}
+
+nav {
+    border-bottom: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    }
+
+nav ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+
+section {
+    padding-bottom: 40px;
+}
+
+img {
+    display: block;
+    margin: 0 auto; /* This sets the margin top and bottom to 0px. The auto on the left and right will automatically calculate the space either side and split it evenly between the two margins. */
+    padding: 15px;
+    max-width: 100%; /* This means that the images will resize to fit the parent container instead of just rendering at its native width and overflowing its containing box. */
+}
+
+/* Layout */
+
+article {
+    min-width: 300px;
+    max-width: 760px;
+    margin: 20px auto;
+
+}
